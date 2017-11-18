@@ -1,0 +1,36 @@
+.heading {
+	padding: 50px;
+	font-size: 60px;
+	top: 0;
+	margin: -115px 0 -100px 70px;
+}
+
+.p {
+	margin: 10px 50px 0 80px;
+}
+
+.div-fixed {
+  position: fixed;
+  width: 200px;
+  height: 125px;
+  background: #eee;
+  top: 0;
+  left: 0;
+  margin: 0;
+}
+
+.div-relative {
+  position: relative;
+  width: 1000px;
+  height: 250px;
+  background: #eee;
+  margin: 30px 50px 30px 80px
+}
+
+.div-absolute {
+  position: absolute;
+  margin: 100px 0 0 800px;
+  width: 230px;
+  height: 130px;
+  background: #999;
+}
